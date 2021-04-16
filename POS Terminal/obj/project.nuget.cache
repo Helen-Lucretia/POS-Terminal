@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sr0QUOV5O0pLVClgVXIqiIpqZ4DyYF0wNXwkLLbrugpCym3BDyr9Ot7Sb7NBa3DHopHF9btrw39MBNQnGMHj+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hhatch1\\dev\\Week6\\POS Terminal\\POS Terminal\\POS Terminal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hhatch1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hhatch1\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\hhatch1\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\hhatch1\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
